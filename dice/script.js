@@ -42,7 +42,7 @@ rollBtn.addEventListener("click", () => {
   // Display bonus if it's not zero
   const bonusResultDiv = document.getElementById("bonusResult");
   if (bonus !== 0) {
-    bonusResultDiv.innerHTML = bonus;
+    bonusResultDiv.innerHTML = bonus > 0 ? `+${bonus}` : bonus;
   } else {
     bonusResultDiv.innerHTML = "";
   }
