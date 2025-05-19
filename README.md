@@ -1,7 +1,10 @@
-# Exercice à choix : Intégration web
+# Exercice à choix : Intégration web Epic Game Jam
+
+![](./images/egj.png)
 
 ## Consignes générales
 
+La page 404 de l'[Epic Game Jam](https://epicgamejam.com) est plutôt austère alors qu'on est des gens funs. Votre job est d'intégrer ces mini-jeux en respectant l'ambiance générale du site.
 Dans ce dossier, vous trouverez plusieurs projets à choix :
 
 ### Dice Roller (lanceur de dés)
@@ -23,7 +26,8 @@ Vous devez choisir **un** exercice parmi ceux proposés.
 1. **Design rapide sur Figma**
 
    - Réalisez une maquette du design de votre exercice sur Figma.
-   - Ne passez pas trop de temps sur cette étape : l'objectif est d'avoir une idée claire du rendu visuel et de passer rapidement à l'étape de développement.
+   - La page doit contenir un titre et description qui indiquent que l'on est sur la page 404.
+   - Ne passez pas trop de temps sur cette étape : l'objectif est d'avoir une idée claire du rendu visuel et de passer rapidement à l'étape de développement. Les modifications de design peuvent être faites directement dans le code HTML/CSS par la suite.
 
 2. **Intégration HTML & CSS**
 
